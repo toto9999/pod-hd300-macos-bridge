@@ -1,0 +1,45 @@
+{
+  "retrieved": "2026-10-27",
+  "sources": [
+    {
+      "path": "vendor/linux-line6/GPL-2.0.txt",
+      "url": "https://github.com/torvalds/linux/blob/master/LICENSES/preferred/GPL-2.0",
+      "sha256": "8780e78a1a737e127f25a65f6d95269bffd36158dc261114de7859b490bfc5aa"
+    },
+    {
+      "path": "vendor/linux-line6/capture.c",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/capture.c",
+      "sha256": "6f9c610573a9a820831a2e449c8ae146f5197840ef3e67be73e365b8d9778bec"
+    },
+    {
+      "path": "vendor/linux-line6/driver.c",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/driver.c",
+      "sha256": "73123eb8ddef699d836ae27269b7f716bbcd3fbf8917c12c658160d123b01d11"
+    },
+    {
+      "path": "vendor/linux-line6/driver.h",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/driver.h",
+      "sha256": "6bdbf42547971ee457d67a02b742ef342ffc7ca9a675d5f298ef21f6e1c3f8cf"
+    },
+    {
+      "path": "vendor/linux-line6/pcm.c",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/pcm.c",
+      "sha256": "6129a0a83d639125307a92c79472555013e96e69ab8c15ae4979afa011d4c6d0"
+    },
+    {
+      "path": "vendor/linux-line6/pcm.h",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/pcm.h",
+      "sha256": "642dc31a8dc7e1aa53d86ee08652731d79ae7bd4f785ab2aa00f929de68cae50"
+    },
+    {
+      "path": "vendor/linux-line6/playback.c",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/playback.c",
+      "sha256": "e23450bad38c88bc1f2df9e01dc2528dbff0d5f92986e999defc5572fe95d3e2"
+    },
+    {
+      "path": "vendor/linux-line6/podhd.c",
+      "url": "https://github.com/torvalds/linux/blob/master/sound/usb/line6/podhd.c",
+      "sha256": "94685b39ac8c4f331f12a58fa270283487465fdbd20dc1bfa1d9d49547be7af7"
+    }
+  ]
+}

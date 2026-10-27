@@ -1,0 +1,15 @@
+.venv/
+.cache/
+.python/
+.tools/
+__pycache__/
+*.pyc
+recordings/
+logs/
+build/
+uninstalled/
+settings.json
+.DS_Store
+*.wav
+*.aiff
+*.band/
